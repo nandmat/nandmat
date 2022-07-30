@@ -11,7 +11,8 @@
 </div>
  
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="JAVA" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://www.google.com/search?q=java&sxsrf=ALiCzsaHW5MXt3FypksHyjWf6C-2wTrjzg:1659206741804&source=lnms&tbm=isch&sa=X&ved=2ahUKEwip1tDjoqH5AhWlpJUCHbwdDhYQ_AUoAXoECAIQAw&biw=1536&bih=714&dpr=1.25#imgrc=naAVZOB9OVFQ6M)">
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
