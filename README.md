@@ -11,7 +11,7 @@
 </div>
  
 <div style="display: inline_block"><br>
-   <img align="center" alt="JAVA" height="30" width="40" src="https://www.svgrepo.com/svg/184143/java">
+   <img align="center" alt="JAVA" height="30" width="40" src="https://pics.freeicons.io/uploads/icons/png/378554371540553613-512.png">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
