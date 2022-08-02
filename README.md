@@ -1,6 +1,7 @@
 ### Olá, me chamo Nanderson Matheus Reis!😄
 
 - 📖 Estudando Javascript com foco em Front-end
+- 📖 Estudando Java com foco em back-end
 - 💬 Me encontre no Linkedin: https://www.linkedin.com/in/nanderson-matheus-reis-5b5051147/
 - 📫 Contate-me no email: nandersonmatheusmelo@gmail.com
 
