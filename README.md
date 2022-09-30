@@ -13,7 +13,7 @@
  
 <div style="display: inline_block"><br>
    <img align="center" alt="JAVA" height="30" width="40" src="https://pics.freeicons.io/uploads/icons/png/378554371540553613-512.png">
-   <img align="center" alt="PHP" height="30" width="40" src="https://user-images.githubusercontent.com/87582433/193165405-7dc6b490-765b-431b-80bc-2fd042efbe81.png">
+   <img align="center" alt="PHP" height="30" width="40" src="https://www.pngkey.com/png/full/109-1090674_php-logo-png-php-logo-png-white.png">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
