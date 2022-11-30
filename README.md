@@ -16,5 +16,4 @@
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kindpng.com%2Fimgv%2FmmJmhh_choosing-mysql-or-postgresql-mysql-logo-png-transparent%2F&psig=AOvVaw1QuxZhJ-2L-MXSDXT6CQxm&ust=1669858634967000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLCb5Kji1PsCFQAAAAAdAAAAABAE)">
 </div>
