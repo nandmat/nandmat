@@ -1,7 +1,6 @@
 ### Olá, me chamo Nanderson Matheus Reis!😄
 
-- 📖 Estudando Javascript com foco em Front-end
-- 📖 Estudando Java e PHP com foco em back-end
+- 📖 Estudando Java e PHP (framework LARAVEL) e SQL MySQL, PostgreSQL com foco em back-end
 - 💬 Me encontre no Linkedin: https://www.linkedin.com/in/nanderson-matheus-reis-5b5051147/
 - 📫 Contate-me no email: nandersonmatheusmelo@gmail.com
 
@@ -17,5 +16,5 @@
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kindpng.com%2Fimgv%2FmmJmhh_choosing-mysql-or-postgresql-mysql-logo-png-transparent%2F&psig=AOvVaw1QuxZhJ-2L-MXSDXT6CQxm&ust=1669858634967000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLCb5Kji1PsCFQAAAAAdAAAAABAE)">
 </div>
