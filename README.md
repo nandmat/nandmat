@@ -1,6 +1,6 @@
 ### Olá, me chamo Nanderson Matheus Reis!😄
 
-- 📖 Estudando Java e PHP (framework LARAVEL) e SQL MySQL, PostgreSQL com foco em back-end
+- 📖 Estudando PHP (framework LARAVEL) e SQL MySQL, PostgreSQL com foco em back-end
 - 💬 Me encontre no Linkedin: https://www.linkedin.com/in/nanderson-matheus-reis-5b5051147/
 - 📫 Contate-me no email: nandersonmatheusmelo@gmail.com
 
