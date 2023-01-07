@@ -1,6 +1,7 @@
 ### Olá, me chamo Nanderson Matheus Reis!😄
 
 - 📖 Estudando PHP (framework LARAVEL) e SQL MySQL, PostgreSQL com foco em back-end
+- 📖 Estudando React Native! Resolvi mergulhar no mundo Mobile também!
 - 💬 Me encontre no Linkedin: https://www.linkedin.com/in/nanderson-matheus-reis-5b5051147/
 - 📫 Contate-me no email: nandersonmatheusmelo@gmail.com
 
