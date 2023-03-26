@@ -12,7 +12,7 @@
 </div>
  
 <div style="display: inline_block"><br>
-   <img align="center" alt="JAVA" height="30" width="40" src="https://w7.pngwing.com/pngs/758/884/png-transparent-circle-laravel-programming-round-icon-popular-services-brands-vol-icon-thumbnail.png">
+   <img align="center" alt="JAVA" height="30" width="40" src="[https://pics.freeicons.io/uploads/icons/png/378554371540553613-512.png](https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png)">
    <img align="center" alt="PHP" height="30" width="40" src="https://www.pngkey.com/png/full/109-1090674_php-logo-png-php-logo-png-white.png">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
