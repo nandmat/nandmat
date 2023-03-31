@@ -14,7 +14,7 @@
 <div style="display: inline_block"><br>
    <img align="center" alt="JAVA" height="30" width="40" src="https://laravel.com/img/logomark.min.svg">
    <img align="center" alt="PHP" height="30" width="40" src="https://www.pngkey.com/png/full/109-1090674_php-logo-png-php-logo-png-white.png">
-   <img align="center" alt="PHP" height="30" width="40" src="https://seeklogo.com/images/S/symfony-logo-AA34C8FC16-seeklogo.com.png">
+   <img align="center" alt="PHP" height="30" width="40" src="https://www.logo.wine/a/logo/Symfony/Symfony-Logo.wine.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
