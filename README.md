@@ -1,4 +1,4 @@
-### Olá, me chamo Nanderson Matheus Reis!😄
+### Olá, me chamo Nanderson Matheus Reis!
 
 - 📖 Backend Developer PHP | LARAVEL
 
