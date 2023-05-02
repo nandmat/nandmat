@@ -2,8 +2,6 @@
 
 - 📖 Estudando PHP (framework LARAVEL) e SQL MySQL, PostgreSQL com foco em back-end
 - 📖 Estudando React Native! Resolvi mergulhar no mundo Mobile também!
-- 💬 Me encontre no Linkedin: https://www.linkedin.com/in/nanderson-matheus-reis-5b5051147/
-- 📫 Contate-me no email: nandersonmatheusmelo@gmail.com
 
 <div align="center">
   <a href="https://github.com/nandmat">
@@ -20,7 +18,7 @@
 </div>
 
   
-  <div>
+  <div style="margin-top: 35px">
     
   <a href="https://www.linkedin.com/in/nanderson-matheus-reis-5b5051147/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:nandersonmatheusmelo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
