@@ -30,7 +30,7 @@
       </a>
       <br>Laravel
     <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="icon" width="65" height="65" />
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="icon" width="65" height="65" />
       <br>MySQL
     </td>
      <td align="center" width="96">
