@@ -7,7 +7,7 @@
 ### Software Developer | Systems Analysis and Development Student
   
 <div align="center">
-  ## Status:
+  <h3>Status:</h3>
 </div>
 
 |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nandmat&theme=dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nandmat&theme=dark&utcOffset=-3)|
