@@ -20,13 +20,13 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="icon" width="65" height="65" />
+        <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="icon" width="65" height="65" />
       </a>
       <br>PHP
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://laravel.com/img/logomark.min.svg" alt="icon" width="65" height="65" />
+        <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="icon" width="65" height="65" />
       </a>
       <br>Laravel
     <td align="center" width="96">
