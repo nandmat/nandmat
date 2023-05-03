@@ -34,7 +34,7 @@
       <br>MySQL
     </td>
      <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png" alt="icon" width="65" height="65"/>
+        <img src="https://img1.gratispng.com/20180629/jtk/kisspng-javascript-programmer-programming-language-compute-node-js-5b35fcbc7084c2.4877644915302647644609.jpg" alt="icon" width="65" height="65"/>
       <br>Javascript
     </td>
      <td align="center"  width="96">
