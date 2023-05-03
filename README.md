@@ -4,9 +4,9 @@
   <img src="https://img.shields.io/github/stars/nandmat?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
-### Olá, me chamo Nanderson Matheus Reis! 
+### Hello! 
 
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Italo+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Nanderson Matheus Welcome to my Profile! animated typed out">
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Nanderson+Mathueus+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Nanderson Matheus Welcome to my Profile! animated typed out">
 <img  src="assests/borderseperator.gif">
 
 - 📖 Backend Developer PHP | LARAVEL
