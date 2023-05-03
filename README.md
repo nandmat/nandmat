@@ -20,17 +20,17 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="icon" width="65" height="65" />
+        <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="icon" width="48" height="48" />
       </a>
       <br>PHP
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="icon" width="65" height="65" />
+        <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="icon" width="48" height="48" />
       </a>
       <br>Laravel
     <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="icon" width="65" height="65" />
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="icon" width="48" height="48" />
       <br>MySQL
     </td>
      <td align="center" width="96">
