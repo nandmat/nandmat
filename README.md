@@ -67,7 +67,7 @@
 </table>
 
 <h2><img src="https://media.giphy.com/media/mpM654sL8gJumwGmAn/giphy.gif" width="30px" height="30px"> Contacts:</h2>
-
+<a href = "mailto:nandersonmatheusmelo@gmail.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=000000&logo=Gmail&logoColor=FFFFFF&label=" target="_blank"></a>
 <a id="twitter" href="https://twitter.com/nmmrxxx">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=000000&logo=Twitter&logoColor=FFFFFF&label="/>
 </a>
