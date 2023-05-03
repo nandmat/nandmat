@@ -6,7 +6,7 @@
 
 ### Software Developer | Systems Analysis and Development Student
   
-div align="center">
+<div align="center">
   ## Status:
 </div>
 
