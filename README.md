@@ -30,6 +30,6 @@
    
 ## :snake: Activities :
 
-![Snake animation](https://github.com/nandmat/nandmat/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/nandmat1/nandmat/blob/output/github-contribution-grid-snake.svg)
    
 </div>
