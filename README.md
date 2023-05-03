@@ -4,13 +4,13 @@
   <img src="https://img.shields.io/github/stars/nandmat?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
-### Software Developer | Systems Analysis and Development Student
-  
 <div align="center">
+  <h1>Software Developer | Systems Analysis and Development Student</h1>
   <h3>Status:</h3>
 </div>
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nandmat&theme=dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nandmat&theme=dark&utcOffset=-3)|
+<div align="center">
+  |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nandmat&theme=dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nandmat&theme=dark&utcOffset=-3)|
 |---|---|
 <br> 
 
@@ -20,6 +20,7 @@
 <br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nandmat&theme=dark)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nandmat&theme=dark)
+</div>
 
 
 <h2 align="center"><img src="https://media.giphy.com/media/tZIxqCNZhC9YKasYf7/giphy.gif" width="35px" height="35px">Skills:</h2>
