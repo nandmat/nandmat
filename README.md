@@ -20,7 +20,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://www.svgrepo.com/show/303656/php-logo.svg" alt="icon" width="48" height="48" />
+        <img src="https://www.svgrepo.com/show/150351/php-programming-language.svg" alt="icon" width="48" height="48" />
       </a>
       <br>PHP
     </td>
