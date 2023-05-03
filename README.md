@@ -20,7 +20,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg" alt="icon" width="65" height="65" />
+        <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="icon" width="65" height="65" />
       </a>
       <br>PHP
     </td>
