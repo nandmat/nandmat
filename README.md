@@ -6,7 +6,7 @@
 
 ### Hello! 
 
-### 📖 Backend Developer PHP | LARAVEL
+### Software Developer | Systems Analysis and Development Student
 
   
 ## Status:
