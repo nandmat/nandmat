@@ -20,7 +20,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nandmat&theme=dark)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nandmat&theme=dark)
 
 
-<h2><img src="https://media.giphy.com/media/tZIxqCNZhC9YKasYf7/giphy.gif" width="35px" height="35px">Skills:</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/tZIxqCNZhC9YKasYf7/giphy.gif" width="35px" height="35px">Skills:</h2>
 
 <table align="center">
 
