@@ -53,6 +53,10 @@
         <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="icon" width="48" height="48"/>
       <br>Javascript
     </td>
+    <td align="center" width="96">
+        <img src="https://logospng.org/wp-content/uploads/vue-js.png" alt="icon" width="48" height="48"/>
+      <br>Vue.Js
+    </td>
      <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
