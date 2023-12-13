@@ -36,6 +36,12 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
+        <img src="https://symfony.com/logos/symfony_black_03.png" alt="icon" width="48" height="48" />
+      </a>
+      <br>Symfony
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
         <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="icon" width="48" height="48" />
       </a>
       <br>Laravel
