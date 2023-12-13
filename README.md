@@ -54,7 +54,7 @@
       <br>Javascript
     </td>
     <td align="center" width="96">
-        <img src="https://logospng.org/wp-content/uploads/vue-js.png" alt="icon" width="48" height="48"/>
+        <img src="https://www.cdnlogo.com/logos/v/69/vue.svg" alt="icon" width="48" height="48"/>
       <br>Vue.Js
     </td>
      <td align="center"  width="96">
