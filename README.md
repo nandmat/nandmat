@@ -28,6 +28,12 @@
 <table align="center">
 
   <tr>
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="icon" width="48" height="48" />
+      </a>
+      <br>C#
+    </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="icon" width="48" height="48" />
