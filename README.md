@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <h1>Software Developer | Systems Analysis and Development Student</h1>
+  <h1>Software Developer | Systems Analysis and Development</h1>
   <h3>Status:</h3>
 </div>
 
